@@ -1,0 +1,1533 @@
+[ 2019-02-18 06:46:04 ] full archive url = http://www.tejasspublisheers.com/
+[ 2019-02-18 06:46:04 ] archive url = http://www.tejasspublisheers.com
+[ 2019-02-18 06:46:04 ] website url = www.tejasspublisheers.com/
+[ 2019-02-18 06:46:04 ] no www url = tejasspublisheers.com
+[ 2019-02-18 06:46:04 ] main_domain = tejasspublisheers.com
+[ 2019-02-18 06:46:04 ] subdomain = www
+[ 2019-02-18 06:46:04 ] type( demo or live ) = live
+[ 2019-02-18 06:46:04 ] max_level = 5
+[ 2019-02-18 06:46:04 ] main folder = tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3
+[ 2019-02-18 06:46:04 ] email = ijarcce1@gmail.com
+[ 2019-02-18 06:46:04 ] scaping_type = all
+[ 2019-02-18 06:46:04 ] file_path_index = 
+[ 2019-02-18 06:46:04 ] file_path_without_ext_index = 
+[ 2019-02-18 06:46:04 ] #####################################################################################################
+[ 2019-02-18 06:46:04 ] ###############http://www.tejasspublisheers.com ( Scraping  of 1 / 0 )  - 1 error pages fixed###############
+[ 2019-02-18 06:46:04 ] ###############Local URL = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/index.html (code = 200) ###############
+[ 2019-02-18 06:46:04 ] ###############Try number = 1###############
+[ 2019-02-18 06:46:04 ] #####################################################################################################
+[ 2019-02-18 06:46:04 ]  Main level =0
+[ 2019-02-18 06:46:05 ] ---------------------------------------
+[ 2019-02-18 06:46:05 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:05 ] ---------------------------------------
+[ 2019-02-18 06:46:05 ] TEST 1
+[ 2019-02-18 06:46:05 ] URL = http://www.tejasspublisheers.com
+[ 2019-02-18 06:46:05 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:05 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:22.0) Gecko/20130405 Firefox/22.0
+[ 2019-02-18 06:46:05 ] Original encoding = UTF-8
+[ 2019-02-18 06:46:05 ] Final encoding = UTF-8
+[ 2019-02-18 06:46:05 ] Language = N/A
+[ 2019-02-18 06:46:05 ]  Base =http://www.tejasspublisheers.com/
+[ 2019-02-18 06:46:05 ] 
+[ 2019-02-18 06:46:05 ] 
+[ 2019-02-18 06:46:05 ] /**************************************************************/
+[ 2019-02-18 06:46:05 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-18 06:46:05 ] /**************************************************************/
+[ 2019-02-18 06:46:05 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-18 06:46:05 ] 
+[ 2019-02-18 06:46:05 ] 
+[ 2019-02-18 06:46:05 ] 
+[ 2019-02-18 06:46:05 ] /**************************************************************/
+[ 2019-02-18 06:46:05 ] /*******		Extract pdf files		**********/
+[ 2019-02-18 06:46:05 ] /**************************************************************/
+[ 2019-02-18 06:46:05 ] /*******		End : Extract pdf files		**********/
+[ 2019-02-18 06:46:05 ] 
+[ 2019-02-18 06:46:05 ] 
+[ 2019-02-18 06:46:05 ] 
+[ 2019-02-18 06:46:05 ] /**************************************************************/
+[ 2019-02-18 06:46:05 ] /*******		Extract css files		**********/
+[ 2019-02-18 06:46:05 ] /**************************************************************/
+[ 2019-02-18 06:46:05 ] file url = http://www.tejasspublisheers.com/media/system/css/modal.css
+[ 2019-02-18 06:46:05 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/modal.css
+[ 2019-02-18 06:46:05 ] file url 1 = http://www.tejasspublisheers.com/media/system/css/modal.css
+[ 2019-02-18 06:46:05 ] scrape_it = 1
+[ 2019-02-18 06:46:05 ] ---------------------------------------
+[ 2019-02-18 06:46:05 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:05 ] ---------------------------------------
+[ 2019-02-18 06:46:05 ] TEST 1
+[ 2019-02-18 06:46:05 ] URL = http://www.tejasspublisheers.com/media/system/css/modal.css
+[ 2019-02-18 06:46:05 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:06 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
+[ 2019-02-18 06:46:06 ] 
+[ 2019-02-18 06:46:06 ] 
+[ 2019-02-18 06:46:06 ] /**************************************************************/
+[ 2019-02-18 06:46:06 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-18 06:46:06 ] /**************************************************************/
+[ 2019-02-18 06:46:06 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-18 06:46:06 ] 
+[ 2019-02-18 06:46:06 ] 
+[ 2019-02-18 06:46:06 ] 
+[ 2019-02-18 06:46:06 ] /**************************************************************/
+[ 2019-02-18 06:46:06 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:06 ] /**************************************************************/
+[ 2019-02-18 06:46:06 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:06 ] 
+[ 2019-02-18 06:46:06 ] 
+[ 2019-02-18 06:46:06 ] 
+[ 2019-02-18 06:46:06 ] /**************************************************************/
+[ 2019-02-18 06:46:06 ] /*******		Extract background_images files		**********/
+[ 2019-02-18 06:46:06 ] /**************************************************************/
+[ 2019-02-18 06:46:06 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/closebox.png
+[ 2019-02-18 06:46:06 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/closebox.png
+[ 2019-02-18 06:46:06 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/closebox.png
+[ 2019-02-18 06:46:06 ] scrape_it = 1
+[ 2019-02-18 06:46:06 ] ---------------------------------------
+[ 2019-02-18 06:46:06 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:06 ] ---------------------------------------
+[ 2019-02-18 06:46:06 ] TEST 1
+[ 2019-02-18 06:46:06 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/closebox.png
+[ 2019-02-18 06:46:06 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:06 ] useragent = Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:06 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/closebox.png --> File Created !!!
+[ 2019-02-18 06:46:06 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:06 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/spinner.gif
+[ 2019-02-18 06:46:06 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/spinner.gif
+[ 2019-02-18 06:46:06 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/spinner.gif
+[ 2019-02-18 06:46:06 ] scrape_it = 1
+[ 2019-02-18 06:46:06 ] ---------------------------------------
+[ 2019-02-18 06:46:06 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:06 ] ---------------------------------------
+[ 2019-02-18 06:46:06 ] TEST 1
+[ 2019-02-18 06:46:06 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/spinner.gif
+[ 2019-02-18 06:46:06 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:08 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+[ 2019-02-18 06:46:08 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/spinner.gif --> File Created !!!
+[ 2019-02-18 06:46:08 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:08 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/bg_n.png
+[ 2019-02-18 06:46:08 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_n.png
+[ 2019-02-18 06:46:08 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/bg_n.png
+[ 2019-02-18 06:46:08 ] scrape_it = 1
+[ 2019-02-18 06:46:08 ] ---------------------------------------
+[ 2019-02-18 06:46:08 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:08 ] ---------------------------------------
+[ 2019-02-18 06:46:08 ] TEST 1
+[ 2019-02-18 06:46:08 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/bg_n.png
+[ 2019-02-18 06:46:08 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:09 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+[ 2019-02-18 06:46:09 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_n.png --> File Created !!!
+[ 2019-02-18 06:46:09 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:09 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/bg_ne.png
+[ 2019-02-18 06:46:09 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_ne.png
+[ 2019-02-18 06:46:09 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/bg_ne.png
+[ 2019-02-18 06:46:09 ] scrape_it = 1
+[ 2019-02-18 06:46:09 ] ---------------------------------------
+[ 2019-02-18 06:46:09 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:09 ] ---------------------------------------
+[ 2019-02-18 06:46:09 ] TEST 1
+[ 2019-02-18 06:46:09 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/bg_ne.png
+[ 2019-02-18 06:46:09 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:10 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
+[ 2019-02-18 06:46:10 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_ne.png --> File Created !!!
+[ 2019-02-18 06:46:10 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:10 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/bg_e.png
+[ 2019-02-18 06:46:10 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_e.png
+[ 2019-02-18 06:46:10 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/bg_e.png
+[ 2019-02-18 06:46:10 ] scrape_it = 1
+[ 2019-02-18 06:46:10 ] ---------------------------------------
+[ 2019-02-18 06:46:10 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:10 ] ---------------------------------------
+[ 2019-02-18 06:46:10 ] TEST 1
+[ 2019-02-18 06:46:10 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/bg_e.png
+[ 2019-02-18 06:46:10 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:11 ] useragent = Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0
+[ 2019-02-18 06:46:11 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_e.png --> File Created !!!
+[ 2019-02-18 06:46:11 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:11 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/bg_se.png
+[ 2019-02-18 06:46:11 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_se.png
+[ 2019-02-18 06:46:11 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/bg_se.png
+[ 2019-02-18 06:46:11 ] scrape_it = 1
+[ 2019-02-18 06:46:11 ] ---------------------------------------
+[ 2019-02-18 06:46:11 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:11 ] ---------------------------------------
+[ 2019-02-18 06:46:11 ] TEST 1
+[ 2019-02-18 06:46:11 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/bg_se.png
+[ 2019-02-18 06:46:11 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:11 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:14.0) Gecko/20100101 Firefox/14.0.1 Iceweasel/14.0.1
+[ 2019-02-18 06:46:11 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_se.png --> File Created !!!
+[ 2019-02-18 06:46:11 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:11 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/bg_s.png
+[ 2019-02-18 06:46:11 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_s.png
+[ 2019-02-18 06:46:11 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/bg_s.png
+[ 2019-02-18 06:46:11 ] scrape_it = 1
+[ 2019-02-18 06:46:11 ] ---------------------------------------
+[ 2019-02-18 06:46:11 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:11 ] ---------------------------------------
+[ 2019-02-18 06:46:11 ] TEST 1
+[ 2019-02-18 06:46:11 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/bg_s.png
+[ 2019-02-18 06:46:11 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:12 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20130401 Firefox/31.0
+[ 2019-02-18 06:46:12 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_s.png --> File Created !!!
+[ 2019-02-18 06:46:12 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:12 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/bg_sw.png
+[ 2019-02-18 06:46:12 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_sw.png
+[ 2019-02-18 06:46:12 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/bg_sw.png
+[ 2019-02-18 06:46:12 ] scrape_it = 1
+[ 2019-02-18 06:46:12 ] ---------------------------------------
+[ 2019-02-18 06:46:12 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:12 ] ---------------------------------------
+[ 2019-02-18 06:46:12 ] TEST 1
+[ 2019-02-18 06:46:12 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/bg_sw.png
+[ 2019-02-18 06:46:12 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:12 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+[ 2019-02-18 06:46:12 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_sw.png --> File Created !!!
+[ 2019-02-18 06:46:12 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:12 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/bg_w.png
+[ 2019-02-18 06:46:12 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_w.png
+[ 2019-02-18 06:46:12 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/bg_w.png
+[ 2019-02-18 06:46:12 ] scrape_it = 1
+[ 2019-02-18 06:46:12 ] ---------------------------------------
+[ 2019-02-18 06:46:12 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:12 ] ---------------------------------------
+[ 2019-02-18 06:46:12 ] TEST 1
+[ 2019-02-18 06:46:12 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/bg_w.png
+[ 2019-02-18 06:46:12 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:12 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:21.0) Gecko/20130326 Firefox/21.0
+[ 2019-02-18 06:46:12 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_w.png --> File Created !!!
+[ 2019-02-18 06:46:12 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:12 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/modal/bg_nw.png
+[ 2019-02-18 06:46:12 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_nw.png
+[ 2019-02-18 06:46:12 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/modal/bg_nw.png
+[ 2019-02-18 06:46:12 ] scrape_it = 1
+[ 2019-02-18 06:46:12 ] ---------------------------------------
+[ 2019-02-18 06:46:12 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:12 ] ---------------------------------------
+[ 2019-02-18 06:46:12 ] TEST 1
+[ 2019-02-18 06:46:12 ] URL = http://www.tejasspublisheers.com/media/system/images/modal/bg_nw.png
+[ 2019-02-18 06:46:12 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:14 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; de-de) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:14 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/img/bg_nw.png --> File Created !!!
+[ 2019-02-18 06:46:14 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:14 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-18 06:46:14 ] 
+[ 2019-02-18 06:46:14 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/css/modal.css --> File Created !!!
+[ 2019-02-18 06:46:14 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:14 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/camera.css
+[ 2019-02-18 06:46:14 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/camera.css
+[ 2019-02-18 06:46:14 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/camera.css
+[ 2019-02-18 06:46:14 ] scrape_it = 1
+[ 2019-02-18 06:46:14 ] ---------------------------------------
+[ 2019-02-18 06:46:14 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:14 ] ---------------------------------------
+[ 2019-02-18 06:46:14 ] TEST 1
+[ 2019-02-18 06:46:14 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/camera.css
+[ 2019-02-18 06:46:14 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0
+[ 2019-02-18 06:46:16 ] 
+[ 2019-02-18 06:46:16 ] 
+[ 2019-02-18 06:46:16 ] /**************************************************************/
+[ 2019-02-18 06:46:16 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-18 06:46:16 ] /**************************************************************/
+[ 2019-02-18 06:46:16 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-18 06:46:16 ] 
+[ 2019-02-18 06:46:16 ] 
+[ 2019-02-18 06:46:16 ] 
+[ 2019-02-18 06:46:16 ] /**************************************************************/
+[ 2019-02-18 06:46:16 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:16 ] /**************************************************************/
+[ 2019-02-18 06:46:16 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:16 ] 
+[ 2019-02-18 06:46:16 ] 
+[ 2019-02-18 06:46:16 ] 
+[ 2019-02-18 06:46:16 ] /**************************************************************/
+[ 2019-02-18 06:46:16 ] /*******		Extract background_images files		**********/
+[ 2019-02-18 06:46:16 ] /**************************************************************/
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/blank.gif
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/blank.gif
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/blank.gif
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/blank.gif
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/blank.gif --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/blank.gif
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/blank.gif
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/blank.gif
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/camera-loader.gif
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera-loader.gif
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera-loader.gif
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera-loader.gif
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera-loader.gif --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/camera-loader.gif
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera-loader.gif
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera-loader.gif
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/camera_skins.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera_skins.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera_skins.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera_skins.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20100101 Debian Iceweasel/14.0
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera_skins.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/camera_skins.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera_skins.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera_skins.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/camera_skins.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera_skins.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera_skins.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/camera_skins.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera_skins.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera_skins.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/camera_skins.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera_skins.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera_skins.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/camera_skins.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/camera_skins.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/camera_skins.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay1.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay1.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay1.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay1.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0) chromeframe/10.0.648.205
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay1.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay2.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay2.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay2.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay2.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/13.0.782.215)
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay2.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay3.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay3.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay3.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay3.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay3.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay4.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay4.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay4.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay4.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay4.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay5.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay5.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay5.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay5.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay5.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay6.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay6.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay6.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay6.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay6.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay7.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay7.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay7.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay7.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/1.22 (compatible; MSIE 10.0; Windows 3.1)
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay7.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay8.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay8.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay8.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay8.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay8.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay9.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay9.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay9.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay9.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:16 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; cs-CZ) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:16 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay9.png --> File Created !!!
+[ 2019-02-18 06:46:16 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:16 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/css/../images/patterns/overlay10.png
+[ 2019-02-18 06:46:16 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay10.png
+[ 2019-02-18 06:46:16 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay10.png
+[ 2019-02-18 06:46:16 ] scrape_it = 1
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:16 ] ---------------------------------------
+[ 2019-02-18 06:46:16 ] TEST 1
+[ 2019-02-18 06:46:16 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/themes/default/images/patterns/overlay10.png
+[ 2019-02-18 06:46:16 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/534.55.3 (KHTML, like Gecko) Version/5.1.3 Safari/534.53.10
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/img/overlay10.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/themes/default/css/camera.css --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/system.css
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/system.css
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/css/system.css
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/css/system.css
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/../../../media/system/css/system.css
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/--/--/--/media/system/css/system.css
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/media/system/css/system.css
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/media/system/css/system.css
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract background_images files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/notice-info.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/--/--/--/media/system/css/img/notice-info.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/notice-info.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/media/system/images/notice-info.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/--/--/--/media/system/css/img/notice-info.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/notice-alert.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/--/--/--/media/system/css/img/notice-alert.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/notice-alert.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/media/system/images/notice-alert.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; yie8)
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/--/--/--/media/system/css/img/notice-alert.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/notice-note.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/--/--/--/media/system/css/img/notice-note.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/notice-note.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/media/system/images/notice-note.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/--/--/--/media/system/css/img/notice-note.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/media/system/css/../images/notice-note.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/--/--/--/media/system/css/img/notice-note.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/media/system/images/notice-note.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/--/--/--/media/system/css/system.css --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract background_images files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/system.css --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/general.css
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/general.css
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/css/general.css
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/css/general.css
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:23.0) Gecko/20131011 Firefox/23.0
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract background_images files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/../images/j_button2_left.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_left.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/images/j_button2_left.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/images/j_button2_left.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_left.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/../images/j_button2_right.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_right.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/images/j_button2_right.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/images/j_button2_right.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_right.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/../images/j_button2_image.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_image.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/images/j_button2_image.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/images/j_button2_image.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_image.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/../images/j_button2_readmore.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_readmore.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/images/j_button2_readmore.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/images/j_button2_readmore.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:22.0) Gecko/20130328 Firefox/22.0
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_readmore.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/../images/j_button2_pagebreak.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_pagebreak.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/images/j_button2_pagebreak.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/images/j_button2_pagebreak.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_pagebreak.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/../images/j_button2_blank.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_blank.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/images/j_button2_blank.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/images/j_button2_blank.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/j_button2_blank.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/../images/selector-arrow.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/selector-arrow.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/images/selector-arrow.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/images/selector-arrow.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/selector-arrow.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/system/css/../images/calendar.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/calendar.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/system/images/calendar.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/system/images/calendar.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; ko-kr) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/img/calendar.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/system/css/general.css --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/default.css
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/default.css
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/default.css
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/default.css
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; ja-jp) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] 
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] /*******		Extract background_images files		**********/
+[ 2019-02-18 06:46:17 ] /**************************************************************/
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/image01.jpg
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/image01.jpg
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/image01.jpg
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/image01.jpg
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-us) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/image01.jpg --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/wrapper-bg.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/wrapper-bg.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/wrapper-bg.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/wrapper-bg.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/wrapper-bg.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/front-cover.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/front-cover.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/front-cover.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/front-cover.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; cs-CZ) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:17 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/front-cover.png --> File Created !!!
+[ 2019-02-18 06:46:17 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:17 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/reel-back.png
+[ 2019-02-18 06:46:17 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/reel-back.png
+[ 2019-02-18 06:46:17 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-back.png
+[ 2019-02-18 06:46:17 ] scrape_it = 1
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:17 ] ---------------------------------------
+[ 2019-02-18 06:46:17 ] TEST 1
+[ 2019-02-18 06:46:17 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-back.png
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:17 ] useragent = Mozilla/5.0 (Windows NT 5.0; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-18 06:46:17 ] Code = 404
+[ 2019-02-18 06:46:17 ] HTML found = Yes
+[ 2019-02-18 06:46:17 ]     No sleep!
+[ 2019-02-18 06:46:17 ] ----
+[ 2019-02-18 06:46:17 ] TEST 2
+[ 2019-02-18 06:46:17 ] URL = https://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-back.png  --> Switch protocol ( Try 'https' )
+[ 2019-02-18 06:46:17 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/23.0
+[ 2019-02-18 06:46:18 ] Code = 0
+[ 2019-02-18 06:46:18 ] HTML found = No
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] TEST 3
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-back.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)
+[ 2019-02-18 06:46:18 ] Code = 404
+[ 2019-02-18 06:46:18 ] HTML found = Yes
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/reel-left.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/reel-left.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-left.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-left.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-18 06:46:18 ] Code = 404
+[ 2019-02-18 06:46:18 ] HTML found = Yes
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] TEST 2
+[ 2019-02-18 06:46:18 ] URL = https://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-left.png  --> Switch protocol ( Try 'https' )
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
+[ 2019-02-18 06:46:18 ] Code = 0
+[ 2019-02-18 06:46:18 ] HTML found = No
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] TEST 3
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-left.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+[ 2019-02-18 06:46:18 ] Code = 404
+[ 2019-02-18 06:46:18 ] HTML found = Yes
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/reel-right.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/reel-right.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-right.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-right.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:18 ] Code = 404
+[ 2019-02-18 06:46:18 ] HTML found = Yes
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] TEST 2
+[ 2019-02-18 06:46:18 ] URL = https://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-right.png  --> Switch protocol ( Try 'https' )
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0
+[ 2019-02-18 06:46:18 ] Code = 0
+[ 2019-02-18 06:46:18 ] HTML found = No
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] TEST 3
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/reel-right.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+[ 2019-02-18 06:46:18 ] Code = 404
+[ 2019-02-18 06:46:18 ] HTML found = Yes
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/shadow-divider.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/shadow-divider.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/shadow-divider.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/shadow-divider.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+[ 2019-02-18 06:46:18 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/shadow-divider.png --> File Created !!!
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/ribbon.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/ribbon.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ribbon.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ribbon.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-02-18 06:46:18 ] Code = 404
+[ 2019-02-18 06:46:18 ] HTML found = Yes
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] TEST 2
+[ 2019-02-18 06:46:18 ] URL = https://www.tejasspublisheers.com/templates/tejasspublisheers/images/ribbon.png  --> Switch protocol ( Try 'https' )
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-18 06:46:18 ] Code = 0
+[ 2019-02-18 06:46:18 ] HTML found = No
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] TEST 3
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ribbon.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts)
+[ 2019-02-18 06:46:18 ] Code = 404
+[ 2019-02-18 06:46:18 ] HTML found = Yes
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/ribbon.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/ribbon.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ribbon.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ribbon.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+[ 2019-02-18 06:46:18 ] Code = 404
+[ 2019-02-18 06:46:18 ] HTML found = Yes
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] TEST 2
+[ 2019-02-18 06:46:18 ] URL = https://www.tejasspublisheers.com/templates/tejasspublisheers/images/ribbon.png  --> Switch protocol ( Try 'https' )
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+[ 2019-02-18 06:46:18 ] Code = 0
+[ 2019-02-18 06:46:18 ] HTML found = No
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] TEST 3
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ribbon.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; sv-se) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:18 ] Code = 404
+[ 2019-02-18 06:46:18 ] HTML found = Yes
+[ 2019-02-18 06:46:18 ]     No sleep!
+[ 2019-02-18 06:46:18 ] ----
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/ver-1x1.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/ver-1x1.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ver-1x1.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ver-1x1.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20130406 Firefox/23.0
+[ 2019-02-18 06:46:18 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/ver-1x1.png --> File Created !!!
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/footer-glare.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/footer-glare.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/footer-glare.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/footer-glare.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0
+[ 2019-02-18 06:46:18 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/footer-glare.png --> File Created !!!
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/headline-bg.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/headline-bg.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/headline-bg.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/headline-bg.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)
+[ 2019-02-18 06:46:18 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/headline-bg.png --> File Created !!!
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/img004.jpg
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/img004.jpg
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/img004.jpg
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/img004.jpg
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+[ 2019-02-18 06:46:18 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/img004.jpg --> File Created !!!
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/img005.gif
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/img005.gif
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/img005.gif
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/img005.gif
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-02-18 06:46:18 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/img005.gif --> File Created !!!
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/tooplate_more.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/tooplate_more.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/tooplate_more.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/tooplate_more.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+[ 2019-02-18 06:46:18 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/tooplate_more.png --> File Created !!!
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/date.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/date.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/date.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/date.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)
+[ 2019-02-18 06:46:18 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/date.png --> File Created !!!
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/facebook_32.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/facebook_32.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/facebook_32.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/facebook_32.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:18 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+[ 2019-02-18 06:46:18 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/facebook_32.png --> File Created !!!
+[ 2019-02-18 06:46:18 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:18 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/linkedin_32.png
+[ 2019-02-18 06:46:18 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/linkedin_32.png
+[ 2019-02-18 06:46:18 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/linkedin_32.png
+[ 2019-02-18 06:46:18 ] scrape_it = 1
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:18 ] ---------------------------------------
+[ 2019-02-18 06:46:18 ] TEST 1
+[ 2019-02-18 06:46:18 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/linkedin_32.png
+[ 2019-02-18 06:46:18 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:19 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/linkedin_32.png --> File Created !!!
+[ 2019-02-18 06:46:19 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:19 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/css/../images/twitter_32.png
+[ 2019-02-18 06:46:19 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/twitter_32.png
+[ 2019-02-18 06:46:19 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/twitter_32.png
+[ 2019-02-18 06:46:19 ] scrape_it = 1
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] TEST 1
+[ 2019-02-18 06:46:19 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/twitter_32.png
+[ 2019-02-18 06:46:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:19 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/img/twitter_32.png --> File Created !!!
+[ 2019-02-18 06:46:19 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:19 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/css/default.css --> File Created !!!
+[ 2019-02-18 06:46:19 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:19 ] /*******		End : Extract css files		**********/
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] /**************************************************************/
+[ 2019-02-18 06:46:19 ] /*******		Extract fonts_from_html files		**********/
+[ 2019-02-18 06:46:19 ] /**************************************************************/
+[ 2019-02-18 06:46:19 ] /*******		End : Extract fonts_from_html files		**********/
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] /**************************************************************/
+[ 2019-02-18 06:46:19 ] /*******		Extract xml files		**********/
+[ 2019-02-18 06:46:19 ] /**************************************************************/
+[ 2019-02-18 06:46:19 ] /*******		End : Extract xml files		**********/
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] /**************************************************************/
+[ 2019-02-18 06:46:19 ] /*******		Extract txt files		**********/
+[ 2019-02-18 06:46:19 ] /**************************************************************/
+[ 2019-02-18 06:46:19 ] /*******		End : Extract txt files		**********/
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] 
+[ 2019-02-18 06:46:19 ] /**************************************************************/
+[ 2019-02-18 06:46:19 ] /*******		Extract script files		**********/
+[ 2019-02-18 06:46:19 ] /**************************************************************/
+[ 2019-02-18 06:46:19 ] file url = http://www.tejasspublisheers.com/media/jui/js/jquery.min.js
+[ 2019-02-18 06:46:19 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/jui/js/jquery.min.js
+[ 2019-02-18 06:46:19 ] file url 1 = http://www.tejasspublisheers.com/media/jui/js/jquery.min.js
+[ 2019-02-18 06:46:19 ] scrape_it = 1
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] TEST 1
+[ 2019-02-18 06:46:19 ] URL = http://www.tejasspublisheers.com/media/jui/js/jquery.min.js
+[ 2019-02-18 06:46:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:19 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20120724 Debian Iceweasel/15.0
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/jui/js/jquery.min.js --> File Created !!!
+[ 2019-02-18 06:46:19 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:19 ] file url = http://www.tejasspublisheers.com/media/jui/js/jquery-noconflict.js
+[ 2019-02-18 06:46:19 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/jui/js/jquery-noconflict.js
+[ 2019-02-18 06:46:19 ] file url 1 = http://www.tejasspublisheers.com/media/jui/js/jquery-noconflict.js
+[ 2019-02-18 06:46:19 ] scrape_it = 1
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] TEST 1
+[ 2019-02-18 06:46:19 ] URL = http://www.tejasspublisheers.com/media/jui/js/jquery-noconflict.js
+[ 2019-02-18 06:46:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:19 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:22.0) Gecko/20130405 Firefox/22.0
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/jui/js/jquery-noconflict.js --> File Created !!!
+[ 2019-02-18 06:46:19 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:19 ] file url = http://www.tejasspublisheers.com/media/jui/js/jquery-migrate.min.js
+[ 2019-02-18 06:46:19 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/jui/js/jquery-migrate.min.js
+[ 2019-02-18 06:46:19 ] file url 1 = http://www.tejasspublisheers.com/media/jui/js/jquery-migrate.min.js
+[ 2019-02-18 06:46:19 ] scrape_it = 1
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] TEST 1
+[ 2019-02-18 06:46:19 ] URL = http://www.tejasspublisheers.com/media/jui/js/jquery-migrate.min.js
+[ 2019-02-18 06:46:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:19 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/jui/js/jquery-migrate.min.js --> File Created !!!
+[ 2019-02-18 06:46:19 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:19 ] file url = http://www.tejasspublisheers.com/media/system/js/caption.js
+[ 2019-02-18 06:46:19 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/caption.js
+[ 2019-02-18 06:46:19 ] file url 1 = http://www.tejasspublisheers.com/media/system/js/caption.js
+[ 2019-02-18 06:46:19 ] scrape_it = 1
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] TEST 1
+[ 2019-02-18 06:46:19 ] URL = http://www.tejasspublisheers.com/media/system/js/caption.js
+[ 2019-02-18 06:46:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:19 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-us) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/caption.js --> File Created !!!
+[ 2019-02-18 06:46:19 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:19 ] file url = http://www.tejasspublisheers.com/media/system/js/mootools-core.js
+[ 2019-02-18 06:46:19 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/mootools-core.js
+[ 2019-02-18 06:46:19 ] file url 1 = http://www.tejasspublisheers.com/media/system/js/mootools-core.js
+[ 2019-02-18 06:46:19 ] scrape_it = 1
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] TEST 1
+[ 2019-02-18 06:46:19 ] URL = http://www.tejasspublisheers.com/media/system/js/mootools-core.js
+[ 2019-02-18 06:46:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:19 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/mootools-core.js --> File Created !!!
+[ 2019-02-18 06:46:19 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:19 ] file url = http://www.tejasspublisheers.com/media/system/js/core.js
+[ 2019-02-18 06:46:19 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/core.js
+[ 2019-02-18 06:46:19 ] file url 1 = http://www.tejasspublisheers.com/media/system/js/core.js
+[ 2019-02-18 06:46:19 ] scrape_it = 1
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] TEST 1
+[ 2019-02-18 06:46:19 ] URL = http://www.tejasspublisheers.com/media/system/js/core.js
+[ 2019-02-18 06:46:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:19 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; ko-kr) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/core.js --> File Created !!!
+[ 2019-02-18 06:46:19 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:19 ] file url = http://www.tejasspublisheers.com/media/system/js/mootools-more.js
+[ 2019-02-18 06:46:19 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/mootools-more.js
+[ 2019-02-18 06:46:19 ] file url 1 = http://www.tejasspublisheers.com/media/system/js/mootools-more.js
+[ 2019-02-18 06:46:19 ] scrape_it = 1
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:19 ] ---------------------------------------
+[ 2019-02-18 06:46:19 ] TEST 1
+[ 2019-02-18 06:46:19 ] URL = http://www.tejasspublisheers.com/media/system/js/mootools-more.js
+[ 2019-02-18 06:46:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:19 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)
+[ 2019-02-18 06:46:19 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/mootools-more.js --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/media/system/js/modal.js
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/modal.js
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/media/system/js/modal.js
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/media/system/js/modal.js
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/media/system/js/modal.js --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/assets/jquery.easing.1.3.js
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/assets/jquery.easing.1.3.js
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/assets/jquery.easing.1.3.js
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/assets/jquery.easing.1.3.js
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; tr-TR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/assets/jquery.easing.1.3.js --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; .NET4.0C; Tablet PC 2.0)
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/modules/mod_slideshowck/assets/camera.min.js
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/assets/camera.min.js
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/modules/mod_slideshowck/assets/camera.min.js
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/modules/mod_slideshowck/assets/camera.min.js
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130331 Firefox/21.0
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/modules/mod_slideshowck/assets/camera.min.js --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] /*******		End : Extract script files		**********/
+[ 2019-02-18 06:46:20 ] 
+[ 2019-02-18 06:46:20 ] 
+[ 2019-02-18 06:46:20 ] 
+[ 2019-02-18 06:46:20 ] /**************************************************************/
+[ 2019-02-18 06:46:20 ] /*******		Extract img files		**********/
+[ 2019-02-18 06:46:20 ] /**************************************************************/
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/logo.png
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/logo.png
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/logo.png
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/logo.png
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/logo.png --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/tej.png
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/tej.png
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/tej.png
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/tej.png
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/tej.png --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/images/03.jpg
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/03.jpg
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/images/03.jpg
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/images/03.jpg
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/03.jpg --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/images/01.jpg
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/01.jpg
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/images/01.jpg
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/images/01.jpg
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20120721 Debian Iceweasel/15.0
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/01.jpg --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/images/microscope.jpg
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/microscope.jpg
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/images/microscope.jpg
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/images/microscope.jpg
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (Microsoft Windows NT 6.2.9200.0); rv:22.0) Gecko/20130405 Firefox/22.0
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/microscope.jpg --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/images/floatingwindturbine.jpg
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/floatingwindturbine.jpg
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/images/floatingwindturbine.jpg
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/images/floatingwindturbine.jpg
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101 Firefox/24.0
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/floatingwindturbine.jpg --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/images/hyperlooptrain.jpg
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/hyperlooptrain.jpg
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/images/hyperlooptrain.jpg
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/images/hyperlooptrain.jpg
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130401 Firefox/21.0
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/hyperlooptrain.jpg --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/images/exocartran.jpg
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/exocartran.jpg
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/images/exocartran.jpg
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/images/exocartran.jpg
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:20 ] useragent = Mozilla/5.0 (Windows NT 5.0; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-18 06:46:20 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/exocartran.jpg --> File Created !!!
+[ 2019-02-18 06:46:20 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:20 ] file url = http://www.tejasspublisheers.com/images/technology-future-woman-ss-1920-800x450.jpg
+[ 2019-02-18 06:46:20 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/technology-future-woman-ss-1920-800x450.jpg
+[ 2019-02-18 06:46:20 ] file url 1 = http://www.tejasspublisheers.com/images/technology-future-woman-ss-1920-800x450.jpg
+[ 2019-02-18 06:46:20 ] scrape_it = 1
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:20 ] ---------------------------------------
+[ 2019-02-18 06:46:20 ] TEST 1
+[ 2019-02-18 06:46:20 ] URL = http://www.tejasspublisheers.com/images/technology-future-woman-ss-1920-800x450.jpg
+[ 2019-02-18 06:46:20 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:21 ] useragent = Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-02-18 06:46:21 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/technology-future-woman-ss-1920-800x450.jpg --> File Created !!!
+[ 2019-02-18 06:46:21 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:21 ] file url = http://www.tejasspublisheers.com/images/futuristic_research_laboratory_by_ociacia-d7344zs.jpg
+[ 2019-02-18 06:46:21 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/futuristic_research_laboratory_by_ociacia-d7344zs.jpg
+[ 2019-02-18 06:46:21 ] file url 1 = http://www.tejasspublisheers.com/images/futuristic_research_laboratory_by_ociacia-d7344zs.jpg
+[ 2019-02-18 06:46:21 ] scrape_it = 1
+[ 2019-02-18 06:46:21 ] ---------------------------------------
+[ 2019-02-18 06:46:21 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:21 ] ---------------------------------------
+[ 2019-02-18 06:46:21 ] TEST 1
+[ 2019-02-18 06:46:21 ] URL = http://www.tejasspublisheers.com/images/futuristic_research_laboratory_by_ociacia-d7344zs.jpg
+[ 2019-02-18 06:46:21 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:21 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:25.0) Gecko/20100101 Firefox/25.0
+[ 2019-02-18 06:46:21 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/futuristic_research_laboratory_by_ociacia-d7344zs.jpg --> File Created !!!
+[ 2019-02-18 06:46:21 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:21 ] file url = http://www.tejasspublisheers.com/images/dna.jpg
+[ 2019-02-18 06:46:21 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/dna.jpg
+[ 2019-02-18 06:46:21 ] file url 1 = http://www.tejasspublisheers.com/images/dna.jpg
+[ 2019-02-18 06:46:21 ] scrape_it = 1
+[ 2019-02-18 06:46:21 ] ---------------------------------------
+[ 2019-02-18 06:46:21 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:21 ] ---------------------------------------
+[ 2019-02-18 06:46:21 ] TEST 1
+[ 2019-02-18 06:46:21 ] URL = http://www.tejasspublisheers.com/images/dna.jpg
+[ 2019-02-18 06:46:21 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:21 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; fr-FR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:21 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/dna.jpg --> File Created !!!
+[ 2019-02-18 06:46:21 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:21 ] file url = http://www.tejasspublisheers.com/images/Futuristic_Bus_3ds_97_0_img.jpg
+[ 2019-02-18 06:46:21 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/Futuristic_Bus_3ds_97_0_img.jpg
+[ 2019-02-18 06:46:21 ] file url 1 = http://www.tejasspublisheers.com/images/Futuristic_Bus_3ds_97_0_img.jpg
+[ 2019-02-18 06:46:21 ] scrape_it = 1
+[ 2019-02-18 06:46:21 ] ---------------------------------------
+[ 2019-02-18 06:46:21 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:21 ] ---------------------------------------
+[ 2019-02-18 06:46:21 ] TEST 1
+[ 2019-02-18 06:46:21 ] URL = http://www.tejasspublisheers.com/images/Futuristic_Bus_3ds_97_0_img.jpg
+[ 2019-02-18 06:46:21 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:21 ] useragent = Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:21 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/Futuristic_Bus_3ds_97_0_img.jpg --> File Created !!!
+[ 2019-02-18 06:46:21 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:21 ] file url = http://www.tejasspublisheers.com/images/dreamstime_xl_32796283-1.jpg
+[ 2019-02-18 06:46:21 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/dreamstime_xl_32796283-1.jpg
+[ 2019-02-18 06:46:21 ] file url 1 = http://www.tejasspublisheers.com/images/dreamstime_xl_32796283-1.jpg
+[ 2019-02-18 06:46:21 ] scrape_it = 1
+[ 2019-02-18 06:46:21 ] ---------------------------------------
+[ 2019-02-18 06:46:21 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:21 ] ---------------------------------------
+[ 2019-02-18 06:46:21 ] TEST 1
+[ 2019-02-18 06:46:21 ] URL = http://www.tejasspublisheers.com/images/dreamstime_xl_32796283-1.jpg
+[ 2019-02-18 06:46:21 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:22 ] useragent = Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:22 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/dreamstime_xl_32796283-1.jpg --> File Created !!!
+[ 2019-02-18 06:46:22 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:22 ] file url = http://www.tejasspublisheers.com/images/a6-zahahadid-net.jpg
+[ 2019-02-18 06:46:22 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/a6-zahahadid-net.jpg
+[ 2019-02-18 06:46:22 ] file url 1 = http://www.tejasspublisheers.com/images/a6-zahahadid-net.jpg
+[ 2019-02-18 06:46:22 ] scrape_it = 1
+[ 2019-02-18 06:46:22 ] ---------------------------------------
+[ 2019-02-18 06:46:22 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:22 ] ---------------------------------------
+[ 2019-02-18 06:46:22 ] TEST 1
+[ 2019-02-18 06:46:22 ] URL = http://www.tejasspublisheers.com/images/a6-zahahadid-net.jpg
+[ 2019-02-18 06:46:22 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:23 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:15.0) Gecko/20100101 Firefox/15.0.1 Iceweasel/15.0.1
+[ 2019-02-18 06:46:23 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/a6-zahahadid-net.jpg --> File Created !!!
+[ 2019-02-18 06:46:23 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:23 ] file url = http://www.tejasspublisheers.com/images/81.jpg
+[ 2019-02-18 06:46:23 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/81.jpg
+[ 2019-02-18 06:46:23 ] file url 1 = http://www.tejasspublisheers.com/images/81.jpg
+[ 2019-02-18 06:46:23 ] scrape_it = 1
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] TEST 1
+[ 2019-02-18 06:46:23 ] URL = http://www.tejasspublisheers.com/images/81.jpg
+[ 2019-02-18 06:46:23 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:23 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:14.0) Gecko/20100101 Firefox/14.0 Iceweasel/14.0
+[ 2019-02-18 06:46:23 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/images/81.jpg --> File Created !!!
+[ 2019-02-18 06:46:23 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:23 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ijireeice_logo.png
+[ 2019-02-18 06:46:23 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/ijireeice_logo.png
+[ 2019-02-18 06:46:23 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ijireeice_logo.png
+[ 2019-02-18 06:46:23 ] scrape_it = 1
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] TEST 1
+[ 2019-02-18 06:46:23 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ijireeice_logo.png
+[ 2019-02-18 06:46:23 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:23 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1
+[ 2019-02-18 06:46:23 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/ijireeice_logo.png --> File Created !!!
+[ 2019-02-18 06:46:23 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:23 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/iarjset_logo.png
+[ 2019-02-18 06:46:23 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/iarjset_logo.png
+[ 2019-02-18 06:46:23 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/iarjset_logo.png
+[ 2019-02-18 06:46:23 ] scrape_it = 1
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] TEST 1
+[ 2019-02-18 06:46:23 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/iarjset_logo.png
+[ 2019-02-18 06:46:23 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:23 ] useragent = Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-02-18 06:46:23 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/iarjset_logo.png --> File Created !!!
+[ 2019-02-18 06:46:23 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:23 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ijarcce_logo.png
+[ 2019-02-18 06:46:23 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/ijarcce_logo.png
+[ 2019-02-18 06:46:23 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ijarcce_logo.png
+[ 2019-02-18 06:46:23 ] scrape_it = 1
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] TEST 1
+[ 2019-02-18 06:46:23 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/images/ijarcce_logo.png
+[ 2019-02-18 06:46:23 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:23 ] useragent = Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+[ 2019-02-18 06:46:23 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/images/ijarcce_logo.png --> File Created !!!
+[ 2019-02-18 06:46:23 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:23 ] file url = http://www.tejasspublisheers.com/templates/tejasspublisheers/favicon.ico
+[ 2019-02-18 06:46:23 ] local_file_full_path = files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/favicon.ico
+[ 2019-02-18 06:46:23 ] file url 1 = http://www.tejasspublisheers.com/templates/tejasspublisheers/favicon.ico
+[ 2019-02-18 06:46:23 ] scrape_it = 1
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] get_curl_live() function : Start
+[ 2019-02-18 06:46:23 ] ---------------------------------------
+[ 2019-02-18 06:46:23 ] TEST 1
+[ 2019-02-18 06:46:23 ] URL = http://www.tejasspublisheers.com/templates/tejasspublisheers/favicon.ico
+[ 2019-02-18 06:46:23 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-18 06:46:23 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; es-es) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-18 06:46:23 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/templates/tejasspublisheers/favicon.ico --> File Created !!!
+[ 2019-02-18 06:46:23 ] -------------------------------------------------------------------------------------------
+[ 2019-02-18 06:46:23 ] /*******		End : Extract img files		**********/
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] /**************************************************************/
+[ 2019-02-18 06:46:23 ] /*******		Extract background_images files		**********/
+[ 2019-02-18 06:46:23 ] /**************************************************************/
+[ 2019-02-18 06:46:23 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] /**************************************************************/
+[ 2019-02-18 06:46:23 ] /*******		Extract background_images_in_html files		**********/
+[ 2019-02-18 06:46:23 ] /**************************************************************/
+[ 2019-02-18 06:46:23 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] /**************************************************************/
+[ 2019-02-18 06:46:23 ] /*******		Extract swf files		**********/
+[ 2019-02-18 06:46:23 ] /**************************************************************/
+[ 2019-02-18 06:46:23 ] /*******		End : Extract swf files		**********/
+[ 2019-02-18 06:46:23 ] 
+[ 2019-02-18 06:46:23 ] Removed external links total ( 0 / 3 )
+[ 2019-02-18 06:46:23 ] Partial Size : 9816
+[ 2019-02-18 06:46:23 ] size_limit_KO : 10000
+[ 2019-02-18 06:46:23 ] files/live/tejasspublisheers.com_ijarcce1_gmail.com_idaizgyy5t3/index.html --> HTML File Created !!!
+[ 2019-02-18 06:46:23 ] ----------------------------------------------------------------------
+[ 2019-02-18 06:46:23 ] update  to_create_arr[0][is_done] = 1
+[ 2019-02-18 06:46:23 ] ( 1 / 0 )  Done - 1 error pages fixed
+[ 2019-02-18 06:46:23 ] Final Size : 9824
